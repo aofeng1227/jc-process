@@ -7,6 +7,6 @@ actionText: 流程及步骤 →
 actionLink: /process/process
 features:
 - title: 物资管理模块
-  details: 相关流程及操作步骤细化
+  details: 相关流程及操作步骤
 footer: MIT Licensed | 星云设计 ©2022 www.xysheji.cn
 ---
